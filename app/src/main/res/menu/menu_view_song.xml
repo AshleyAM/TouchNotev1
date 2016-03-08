@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ashleyam.touchnotev1.ViewSong">
+    <item android:id="@+id/help" android:title="@string/title_activity_help"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/delete_song" android:title="@string/delete_song_string"
+        android:orderInCategory="100" app:showAsAction="ifRoom"
+        android:icon="@drawable/delete_button"/>
+
+    <item android:id="@+id/edit_song" android:title="@string/edit_song_string"
+        android:orderInCategory="100" app:showAsAction="ifRoom"
+        android:icon="@drawable/edit_button"/>
+</menu>

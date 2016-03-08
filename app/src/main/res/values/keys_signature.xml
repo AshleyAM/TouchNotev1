@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="key_array">
+        <item>C Major </item>
+        <item>G Major</item>
+        <item>Middle C</item>
+        <item>D Major</item>
+        <item>A Major</item>
+        <item>B Major</item>
+        <item>F# Major</item>
+        <item>C# Major</item>
+        <item>F Major</item>
+        <item>B♭ Major</item>
+        <item>E♭ Major</item>
+        <item>A♭ Major</item>
+        <item>D♭ Major</item>
+        <item>G♭ Major</item>
+        <item>C♭ Major</item>
+    </string-array>
+</resources>

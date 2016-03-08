@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pitch_array">
+        <item>Low A</item>
+        <item>Low B</item>
+        <item>Middle C</item>
+        <item>Low D</item>
+        <item>Low E</item>
+        <item>Low F</item>
+        <item>Low G</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>A</item>
+    </string-array>
+</resources>

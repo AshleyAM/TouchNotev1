@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/help" android:title="@string/title_activity_help"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/action_create_song" android:title="@string/create_song"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/create_song"/>
+</menu>

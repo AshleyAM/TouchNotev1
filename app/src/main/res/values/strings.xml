@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TouchNote v1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_help">Help</string>
+    <string name="create_song">Create Song</string>
+    <string name="please_title_song">Please title your song:</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_edit_song">EditSong</string>
+    <string name="pitch_select_string">Please select pitch:</string>
+    <string name="sharp">Sharp</string>
+    <string name="flat">Flat</string>
+    <string name="dot">dot</string>
+    <string name="please_select_key_string">Please select key signature:</string>
+    <string name="please_select_rest_string">Please select the rest duration (beats):</string>
+
+    <string name="save_song_string">Save</string>
+    <string name="title_activity_view_song">View Song</string>
+    <string name="edit_song_string">Edit Song</string>
+    <string name="delete_song_string">Delete Song</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="undo_string">Undo</string>
+    <string name="save_string">Save</string>
+    <string name="natural">natural</string>
+    <string name="help_text">When editing a song, to add a note, simply use one of the following multi-touch gestures on the title/date area of the screen:\n
+\n
+Two–finger tap: add eighth note.\n
+Three-finger tap: add quarter note.\n
+Four-finger tap: add half note.\n
+Five-finger tap: add whole note.\n
+\n
+Long-press: Add rest.
+</string>
+</resources>
